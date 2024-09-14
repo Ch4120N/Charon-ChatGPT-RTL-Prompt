@@ -6,7 +6,6 @@
 <img src="https://img.shields.io/badge/Platform-All_Platforms-red">
 
 <img src="https://img.shields.io/github/license/Ch4120N/Charon-ChatGPT-RTL-Prompt">
-    <p>A plugin for RTL (right-to-left) prompt section on ChatGPT website, which solves the problems of Persian speakers in the world in the prompt section.</p>
 </div>
 
 ## 🎤 README Translation
