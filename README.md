@@ -6,6 +6,7 @@
 <img src="https://img.shields.io/badge/Platform-All_Platforms-red">
 
 <img src="https://img.shields.io/github/license/Ch4120N/Charon-ChatGPT-RTL-Prompt">
+    <p>A plugin for RTL (right-to-left) prompt section on ChatGPT website</p>
 </div>
 
 ## 🎤 README Translation
@@ -18,3 +19,4 @@
 ## 💎 General purpose
 This plugin is made for Persian language users who often have problems with the Prompt section in ChatGPT and have RTL (right to left) text problems.
 
+<!-- Powered By Ch4120N -->
