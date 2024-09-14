@@ -1,0 +1,189 @@
+
+@font-face {
+  font-family: "Google Sans Bold";
+  src: local("Google Sans Bold"),
+    url("./Fonts/GoogleSans-Bold.ttf") format("woff");
+}
+@font-face {
+  font-family: "Google Sans Bold Italic";
+  src: local("Google Sans Bold Italic"),
+    url("./Fonts/GoogleSans-BoldItalic.ttf") format("woff");
+}
+@font-face {
+  font-family: "Google Sans Italic";
+  src: local("Google Sans Italic"),
+    url("./Fonts/GoogleSans-Italic.ttf") format("woff");
+}
+@font-face {
+  font-family: "Google Sans Medium";
+  src: local("Google Sans Medium"),
+    url("./Fonts/GoogleSans-Medium.ttf") format("woff");
+}
+@font-face {
+  font-family: "Google Sans Medium Italic";
+  src: local("Google Sans Medium Italic"),
+    url("./Fonts/GoogleSans-MediumItalic.ttf") format("woff");
+}
+@font-face {
+  font-family: "Google Sans Regular";
+  src: local("Google Sans Regular"),
+    url("./Fonts/GoogleSans-Regular.ttf") format("woff");
+}
+
+body {
+  background-color: #1e1e1e;
+  color: #ffffff;
+  font-family: "Google Sans Medium";
+  min-width: 400px;
+  min-height: 200px;
+  padding: 25px;
+
+}
+
+.header {
+  text-align: center;
+}
+h1 {
+  font-size: 1.5rem;
+  font-family: "Google Sans Bold";
+  margin: 0 0 20px;
+  color: #00bcd4;
+  background-color: transparent;
+}
+
+.container {
+  background-color: #333;
+  border-radius: 8px;
+  padding: 5px;
+  justify-content: center;
+}
+
+.info {
+  margin-bottom: 20px;
+}
+
+.info p {
+  font-size: 1rem;
+}
+
+.actions {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 50px;
+}
+
+label {
+  font-weight: bold;
+  display: block;
+  margin-bottom: 20px;
+}
+
+
+.custom-checkbox {
+  display: inline-block;
+  position: relative;
+  cursor: pointer;
+  user-select: none;
+  font-size: 18px;
+}
+
+.custom-checkbox input {
+  display: none;
+}
+
+.checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 25px;
+  width: 25px;
+  background-color: #444;
+  border-radius: 5px;
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.custom-checkbox input:checked ~ .checkmark {
+  background-color: #00bcd4;
+  box-shadow: 0 0 15px rgba(0, 188, 212, 0.6);
+}
+
+.checkmark::after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+.custom-checkbox input:checked ~ .checkmark:after {
+  display: block;
+}
+
+.custom-checkbox .checkmark:after {
+  left: 9px;
+  top: 5px;
+  width: 5px;
+  height: 10px;
+  border: solid white;
+  border-width: 0 2px 2px 0;
+  transform: rotate(45deg);
+}
+
+
+.custom-checkbox:hover input ~ .checkmark {
+  background-color: #555;
+}
+
+.custom-checkbox input:checked:hover ~ .checkmark {
+  background-color: #00acc1;
+}
+
+.options {
+  margin-top: 20px;
+}
+
+.checkbox-text {
+  margin-left: 30px;
+}
+
+button {
+  background-color: #00bcd4;
+  border: none;
+  color: white;
+  padding: 8px 12px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-family: "Google Sans Bold";
+  font-size: 15px;
+  box-shadow: 0 0 15px rgba(0, 188, 212, 0.6);
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #0097a7;
+}
+
+a {
+  color: #00bcd4;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+
+footer {
+  text-align: center;
+  margin-top: 20px;
+  background-color: #333;
+  color: white;
+  padding: 5px;
+  border-radius: 10px;
+  bottom: 0;
+}
+.footer-text{
+  transform: translate(10px, 10px);
+  font-family: "Google Sans Bold";
+  font-size: 1rem;
+}

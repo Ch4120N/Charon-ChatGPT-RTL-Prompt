@@ -1,0 +1,29 @@
+{
+  "manifest_version": 3,
+  "name": "Charon ChatGPT Prompt RTL",
+  "version": "1.1",
+  "description": "Toggleable RTL Prompt with Persian, English languages extension for ChatGPT",
+  "permissions": ["storage", "activeTab", "tabs"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "128": "icons/icon128.png",
+      "512": "icons/icon512.png",
+      "768": "icons/icon768.png"
+    }
+  },
+  "icons": {
+    "128": "icons/icon128.png",
+    "512": "icons/icon512.png",
+    "768": "icons/icon768.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://*.chatgpt.com/*", "*://chatgpt.com/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
