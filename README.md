@@ -1,13 +1,11 @@
 <div align="center">
     <img src="./images/img.jpg" alt="Charon ChatGPT RTL Prompt"/>
     <h1>Charon ChatGPT RTL Prompt</h1>
-  <a href="https://en.wikipedia.org/wiki/JavaScript">
-    <img src="https://img.shields.io/badge/Javascript-yellow">
-  </a>
+<img src="https://img.shields.io/badge/Javascript-yellow">
 
 <img src="https://img.shields.io/badge/Platform-All_Platforms-red">
 
-  <img src="https://img.shields.io/github/license/Ch4120N/Chphisher-v2">
+<img src="https://img.shields.io/github/license/Ch4120N/Charon-ChatGPT-RTL-Prompt">
     <p>A plugin for RTL (right-to-left) prompt section on ChatGPT website, which solves the problems of Persian speakers in the world in the prompt section.</p>
 </div>
 
