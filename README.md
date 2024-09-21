@@ -29,9 +29,11 @@ __`Charon ChatGPT RTL Prompt`__ is a browser extension designed to enhance the C
 * Cross-Platform Support
 
 ## 📝️ How it Works?
-To use this plugin, first install it on the browser:
+To use this plugin, first download it:
 - [Google Chrome](https://github.com/Ch4120N/Charon-ChatGPT-RTL-Prompt/releases) (For `Google Chrome` browser you most download from [release page](https://github.com/Ch4120N/Charon-ChatGPT-RTL-Prompt/releases))
 - [Mozilla FireFox](https://addons.mozilla.org/en-US/firefox/addon/charon-chatgpt-rtl-prompt/) (For `Mozilla FireFox` also you can download from [release page](https://github.com/Ch4120N/Charon-ChatGPT-RTL-Prompt/releases))
+
+After download, follow the introductions below:
 <!-- Powered By Ch4120N -->
 
 ## 📦 Manual Installation
