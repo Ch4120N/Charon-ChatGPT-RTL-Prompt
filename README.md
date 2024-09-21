@@ -62,7 +62,7 @@ To manually install the extension, follow these steps:
 
 #### Step 5: Confirm Installation ✅
 - After installation, the extension will appear in the list of installed extensions.
-
+---
 ### Mozilla FireFox Version
 #### Step 1: Download the .xpi or .zip file 💾
 - Download the extension in either `.xpi` or `.zip` format:
