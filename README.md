@@ -66,8 +66,8 @@ To manually install the extension, follow these steps:
 ### Mozilla FireFox Version
 #### Step 1: Download the .xpi or .zip file 💾
 - Download the extension in either `.xpi` or `.zip` format:
-  - [Download .xpi](#)
-  - [Download .zip](#)
+  - [Download .xpi](https://github.com/Ch4120N/Charon-ChatGPT-RTL-Prompt/releases/download/v1.1.0/Charon.ChatGPT.RTL.Prompt-Firefox-Extension.v1.1.xpi)
+  - [Download .zip](https://github.com/Ch4120N/Charon-ChatGPT-RTL-Prompt/releases/download/v1.1.0/Charon.ChatGPT.RTL.Prompt-Firefox.v1.1.zip)
 
 #### Step 2: Open Firefox Add-ons Page ⚙️
 - Open Firefox and navigate to the Add-ons page:
