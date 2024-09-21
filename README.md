@@ -17,6 +17,6 @@
 > AmirHossein Ghanami (Ch4120N) - Ch4120N@Proton.me
 
 ## 💎 General purpose
-This plugin is made for Persian language users who often have problems with the Prompt section in ChatGPT and have RTL (right to left) text problems.
+__`Charon ChatGPT RTL Prompt`__ is a browser extension designed to enhance the ChatGPT interface by allowing users to toggle between Right-to-Left (RTL) and Left-to-Right (LTR) text directions. This is especially useful for Persian and English users who want better control over the text input field. The extension is simple to use, enabling a seamless experience for bilingual users who switch between different text directions. It also includes customizable prompts for ChatGPT, making it more accessible for RTL language users.
 
 <!-- Powered By Ch4120N -->
