@@ -41,6 +41,8 @@ After download, follow the introductions below:
 To manually install the extension, follow these steps:
 
 ### Google Chrome Version
+<!-- #### Step 1: Download the .crx or .
+zip file 💾 -->
 #### Step 1: Download the .crx or .zip file 💾
 - Download the extension in either `.crx` or `.zip` format:
   - [Download .crx](#)
