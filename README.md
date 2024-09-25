@@ -7,7 +7,7 @@
 
 <img src="https://img.shields.io/github/license/Ch4120N/Charon-ChatGPT-RTL-Prompt">
     <br>
-    `Charon ChatGPT RTL Prompt` is a browser extension that enables easy toggling between Right-to-Left (RTL) and Left-to-Right (LTR) text directions for ChatGPT, making it ideal for Persian and English users who require better control over text input.
+    <code><strong>Charon ChatGPT RTL Prompt</strong></code> is a browser extension that enables easy toggling between Right-to-Left (RTL) and Left-to-Right (LTR) text directions for ChatGPT, making it ideal for Persian and English users who require better control over text input.
 </div>
 
 ## 🎤 README Translation
