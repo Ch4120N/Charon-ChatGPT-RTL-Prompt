@@ -68,6 +68,9 @@ zip file 💾 -->
 - After installation, the extension will appear in the list of installed extensions.
 ---
 ### Mozilla FireFox Version
+> [!NOTE]
+> You can download **Mozilla FireFox** Version from this [link](https://addons.mozilla.org/en-US/firefox/addon/charon-chatgpt-rtl-prompt/)
+
 #### Step 1: Download the .xpi or .zip file 💾
 - Download the extension in either `.xpi` or `.zip` format:
   - [Download .xpi](https://github.com/Ch4120N/Charon-ChatGPT-RTL-Prompt/releases/download/v1.1.0/Charon.ChatGPT.RTL.Prompt-Firefox-Extension.v1.1.xpi)
