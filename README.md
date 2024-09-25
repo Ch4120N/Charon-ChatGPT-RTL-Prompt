@@ -44,9 +44,8 @@ To manually install the extension, follow these steps:
 <!-- #### Step 1: Download the .crx or .
 zip file 💾 -->
 #### Step 1: Download the .crx or .zip file 💾
-- Download the extension in either `.crx` or `.zip` format:
-  - [Download .crx](#)
-  - [Download .zip](#)
+- Download the extension with `.zip` format:
+  - [Download .zip](https://github.com/Ch4120N/Charon-ChatGPT-RTL-Prompt/releases/download/v1.1.0/Charon.ChatGPT.RTL.Prompt-Chrome.v1.1.zip)
 
 #### Step 2: Open Chrome Extensions Page ⚙️
 - Open Chrome and navigate to:
@@ -56,10 +55,7 @@ zip file 💾 -->
 - In the top-right corner, enable **Developer mode**.
 
 #### Step 4: Install the Extension 📦
-- For **.crx** files:
-  1. Drag and drop the `.crx` file into the Chrome Extensions page.
-  
-- For **.zip** files:
+
   1. Extract the `.zip` file.
   2. Click on **Load unpacked**.
   3. Select the folder where the extension was extracted.
@@ -96,3 +92,10 @@ zip file 💾 -->
 - Make sure it is enabled and start using it!
 
 You're all set! 🚀
+
+
+## ❤️ Donation
+> bitcoin: bc1ql4syps7qpa3djqrxwht3g66tldyh4j7qsyjkq0
+
+## ☠️ Reporting Issues
+> If you are facing a configuration issue or something is not working as you expected to be, please use the Ch4120ni@Gmail.com/Ch4120N@Proton.me
