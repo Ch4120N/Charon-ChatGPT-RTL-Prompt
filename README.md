@@ -14,7 +14,7 @@
 <img src="./images/screenshot.png" alt="Charon ChatGPT RTL Prompt ScreenShot" />
 
 ## Project Programmer
-> AmirHossein Ghanami (Ch4120N) - Ch4120N@Proton.me
+> Ch4120N - Ch4120N@Proton.me
 
 ## 💎 General purpose
 __`Charon ChatGPT RTL Prompt`__ is a browser extension designed to enhance the ChatGPT interface by allowing users to toggle between Right-to-Left (RTL) and Left-to-Right (LTR) text directions. This is especially useful for Persian and English users who want better control over the text input field. The extension is simple to use, enabling a seamless experience for bilingual users who switch between different text directions. It also includes customizable prompts for ChatGPT, making it more accessible for RTL language users.
@@ -94,8 +94,22 @@ zip file 💾 -->
 You're all set! 🚀
 
 
-## ❤️ Donation
-> bitcoin: bc1ql4syps7qpa3djqrxwht3g66tldyh4j7qsyjkq0
+## ❤️ Support the Project
+If you find this tool useful, consider donating:
 
-## ☠️ Reporting Issues
-> If you are facing a configuration issue or something is not working as you expected to be, please use the Ch4120ni@Gmail.com/Ch4120N@Proton.me
+| Cryptocurrency | Address                                      |
+| :------------- | :------------------------------------------- |
+| **BTC**        | `bc1ql4syps7qpa3djqrxwht3g66tldyh4j7qsyjkq0` |
+| **ETH**        | `0xfddbd535a4ad28792cbebceee3d6982d774e6d13` |
+| **USDT**       | `3Cq6HRQsiwZFmPEQfG9eJkZE2QGChvf2VN`         |
+> 💖 Your support helps keep the project alive and improving!
+
+## 🚨 Reporting Issues
+> If you encounter bugs, configuration issues, or unexpected behavior, please reach out: 
+📩 Ch4120N@Proton.me
+---
+<div align="center">
+
+**⭐ If you like this project, don’t forget to give it a star!**
+
+</div> 
